@@ -1,16 +1,22 @@
 ### Hi there 👋
+I am a software engineer currently working in Accenture as a SAP ABAP developer. Very passionate about computer engineering. On my way to learn and upgrade myself to a better version!
 
-<!--
-**aayu-s/aayu-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ... Data Structures and Algorithms
+- ⚡  Available for Freelance projects/internship opportunities.
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayushi-sharma-a0b7b4138/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+- Backend development using Flask, Django.
+- Solving Data structure and algorithm questions Python.
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=aayu-s&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-s&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aayu-s&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<!-- <p align="center">
+  <img align="left" src ="https://giaayu-sthub-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+</p> -->
