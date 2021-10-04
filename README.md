@@ -2,7 +2,7 @@
 I am a software engineer currently working in Accenture as a SAP ABAP developer. Very passionate about computer engineering. On my way to learn and upgrade myself to a better version!
 
 
-- 🌱 I’m currently learning ... Data Structures and Algorithms
+- 🌱 I’m currently learning ... Python, Django, Data Structures and Algorithms
 - ⚡  Available for Freelance projects/internship opportunities.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayushi-sharma-a0b7b4138/)
 
